@@ -1,0 +1,2 @@
+cd blackstone
+pip install -r requirements.txt
